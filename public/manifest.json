@@ -18,8 +18,12 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://yambal.github.io/react_pwa/",
+  "url": "https://yambal.github.io/pwa_study/",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "screenshots": [],
+  "orientation": "portrait",
+  "lang":"ja"
 }
